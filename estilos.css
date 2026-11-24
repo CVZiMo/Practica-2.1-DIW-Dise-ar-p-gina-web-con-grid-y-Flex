@@ -112,8 +112,8 @@ main{
     background-color: var(--ola-hover);
 }
 
-.boton--oscuro{
-    background-color: var(--color-oscuro);
+.boton--oscuro {
+    background-color: var(--color-tinta);
     color: var(--color-superficie);
 }
 .boton--oscuro:hover {

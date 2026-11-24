@@ -58,9 +58,9 @@
 }
 
 /* Nota: las variables CSS NO funcionan dentro de @media (...).
-   Puntos de ruptura de la práctica:
-     móvil   → hasta 639px
-     tablet  → desde 640px
+    Puntos de ruptura de la práctica:
+      móvil   → hasta 639px
+      tablet  → desde 640px
      escritorio → desde 960px                                   */
 
 /* ---------- Reset mínimo ---------- */
